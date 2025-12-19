@@ -31,6 +31,36 @@ AgentGuard gives you a unified view of all your AI agents. It automatically disc
 
 Think of it like this: if you have 100 AI agents doing different things, AgentGuard is your command center. It tells you which agents are healthy, which ones are risky, and what they're all doing right now.
 
+## How We're Different
+
+### vs. Traditional SIEM (Splunk, QRadar, Datadog)
+
+**What They Do**: Monitor logs and infrastructure, built for human users and servers.
+
+**What We Do**: Purpose-built for AI agents. We understand agent behavior patterns, not just log files.
+
+**Our Advantage**:
+- **AI Agent Awareness**: We know what an AI agent is, how it behaves, and what's normal vs. abnormal
+- **Real-Time Agent Discovery**: Automatically finds agents they miss (shadow AI)
+- **Agent-Specific Policies**: Rules designed for autonomous systems, not human workflows
+- **10x Faster Setup**: Deploy in days, not months. No army of consultants needed.
+
+**The Reality**: Splunk is great for infrastructure monitoring. But when an AI agent starts making unauthorized decisions, Splunk sees "normal API calls." We see "agent behavior anomaly."
+
+### vs. Cloud Security Platforms (Wiz, Orca, Palo Alto)
+
+**What They Do**: Cloud security posture management, configuration scanning.
+
+**What We Do**: Runtime behavior monitoring for AI agents specifically.
+
+**Our Advantage**:
+- **Behavioral Analysis**: We watch what agents DO, not just how they're configured
+- **Policy Enforcement**: Real-time blocking, not just alerting
+- **Financial Services Focus**: Pre-built compliance templates (OCC, FCA, ECB) they don't have
+- **Built for 2025**: Designed for AI era from day one, not retrofitted
+
+**The Reality**: Palo Alto protects your network. We protect your AI agents. Different problems, different tools.
+
 ## Who This Is For
 
 This is for anyone working with AI agents in production:
@@ -38,6 +68,7 @@ This is for anyone working with AI agents in production:
 - **Security teams** trying to understand new AI-related risks
 - **Compliance teams** preparing for regulatory questions about AI governance
 - **Risk managers** evaluating AI deployments
+- **Mid-market organizations** who can't afford $500K+ enterprise security platforms
 - **Anyone curious** about how to make AI systems safer
 
 ## Current Status
