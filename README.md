@@ -1,63 +1,61 @@
-# AgentGuard Enterprise Platform
+# AgentGuard
 
-> Unified AI Agent Security & Governance Suite
+> Unified AI Agent Security & Governance Platform
 
-[![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](LICENSE)
-[![Documentation](https://img.shields.io/badge/docs-complete-brightgreen.svg)](product-specification.md)
+## What This Is
 
-## 🎯 Overview
+AgentGuard is an open-source platform that helps organizations monitor, secure, and govern their AI agents. Think of it as a security dashboard for all your autonomous AI systems - giving you visibility into what they're doing, when they're doing it, and whether it's safe.
 
-AgentGuard Enterprise Platform is part of the **Agentic AI Security Suite for Financial Institutions** - a comprehensive platform designed to prevent agentic AI financial disruption in 2026.
+## The Current Landscape
 
-## 📚 Documentation
+Right now, we're seeing a massive shift. Companies are deploying AI agents everywhere - handling customer service, processing payments, making trading decisions, automating operations. These AI systems can act on their own, making decisions without a human checking every step.
 
-- **[Product Specification](product-specification.md)** - Complete product documentation
-- **[Suite Overview](../README_FINANCIAL_INSTITUTIONS.md)** - Full suite documentation for G-SIBs
-- **[Quick Reference](../QUICK_REFERENCE_G-SIBs.md)** - Executive summary
+Here's the problem: traditional security tools were built for human users and static systems. They don't understand AI agent behavior. When an AI agent starts acting weird, or gets compromised, or makes a mistake at scale, we need new tools to detect and respond.
 
-## 🏦 Target Institutions
+The industry is moving fast, but the safety infrastructure is still catching up. Regulatory bodies are starting to ask questions about AI governance, but there aren't clear frameworks yet. We built AgentGuard to help fill that gap.
 
-This product is designed for **Global Systemically Important Banks (G-SIBs)**:
+## Why We Built This
 
-- JPMorgan Chase & Co.
-- Morgan Stanley
-- Bank of America
-- Citigroup Inc.
-- Goldman Sachs
-- Wells Fargo
-- U.S. Bancorp
-- Other G-SIBs globally
+We're open-sourcing AgentGuard because we believe security should be collaborative. When it comes to AI agents in financial systems, we're all learning together. By making this public:
 
-## 🚀 Quick Start
+- **More people can contribute** - Security gets better when it's a community effort
+- **Smaller organizations can benefit** - Not everyone has massive security budgets
+- **We learn faster** - Sharing knowledge helps the whole industry improve
+- **Transparency builds trust** - Financial systems need to be trustworthy, and that starts with open tools
 
-1. **Review** the [Product Specification](product-specification.md)
-2. **Schedule** an executive briefing
-3. **Request** a technical assessment
-4. **Begin** proof-of-concept discussion
+This isn't about selling software - it's about making financial AI systems safer for everyone.
 
-## 💰 Pricing
+## What AgentGuard Does
 
-### Starter Edition
-Starting at $75K-200K/year depending on product
+AgentGuard gives you a unified view of all your AI agents. It automatically discovers agents across your infrastructure, monitors their behavior in real-time, and alerts you when something looks off. It can enforce security policies, respond to incidents automatically, and generate compliance reports.
 
-### Professional Edition
-Starting at $250K-600K/year
+Think of it like this: if you have 100 AI agents doing different things, AgentGuard is your command center. It tells you which agents are healthy, which ones are risky, and what they're all doing right now.
 
-### Enterprise Edition
-$750K-3M/year (custom pricing for G-SIBs)
+## Who This Is For
 
-### PE Portfolio License
-Custom pricing for portfolio-wide deployment
+This is for anyone working with AI agents in production:
+- **Developers** building AI-powered features who want to keep them secure
+- **Security teams** trying to understand new AI-related risks
+- **Compliance teams** preparing for regulatory questions about AI governance
+- **Risk managers** evaluating AI deployments
+- **Anyone curious** about how to make AI systems safer
 
-## 📋 Features
+## Current Status
 
-See [Product Specification](product-specification.md) for complete feature list.
+This is an open-source project in active development. We're building this in public because we believe the industry needs better tools for AI agent security, and we want to collaborate with the community.
 
-## 🔗 Related Products
+## Getting Started
 
-This product is part of a 10-product suite:
+1. Check out the [product specification](product-specification.md) for detailed technical information
+2. Review the [Cursor AI prompts](CURSOR_AI_PROMPTS_COMPLETE.md) if you want to build your own version
+3. Read the [executive brief](EXECUTIVE_BRIEF.md) for a high-level overview
+4. Contribute, fork, or use this however it helps you
 
-1. [AgentGuard](../agentguard) - Unified AI Agent Security
+## Related Projects
+
+This is part of a suite of 10 open-source tools for AI agent security in finance:
+
+1. [AgentGuard](../agentguard) - Unified AI Agent Security & Governance
 2. [CodeShield AI](../codeshield-ai) - Secure Development Gateway
 3. [PaymentSentinel](../paymentsentinel) - Real-Time Transaction Defense
 4. [LegacyBridge](../legacybridge-ai-gateway) - Legacy Core Protection
@@ -68,16 +66,25 @@ This product is part of a 10-product suite:
 9. [SupplyChainGuard](../supplychainguard) - Development Tool Security
 10. [ComplianceIQ](../complianceiq) - Regulatory Reporting
 
-## 📞 Contact
+## Contributing
 
-- **Enterprise Sales**: [Contact Information]
-- **Technical Assessment**: [Contact Information]
-- **Regulatory Advisory**: [Contact Information]
+We welcome contributions! Whether it's:
+- Bug reports
+- Feature suggestions
+- Code improvements
+- Documentation fixes
+- Use case examples
 
-## 📄 License
+Everything helps make these tools better for everyone.
 
-Proprietary - Enterprise License Required
+## License
+
+MIT License - Use it however you want.
+
+## Disclaimer
+
+This is open-source software provided as-is. Use at your own risk. We're not responsible for any losses or damages. This is a community project, not a commercial product.
 
 ---
 
-**Part of the Agentic AI Security Suite - Purpose-Built for G-SIBs**
+**Built with the hope that open collaboration can make financial AI systems safer for everyone.**
