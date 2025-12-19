@@ -47,6 +47,9 @@ Think of it like this: if you have 100 AI agents doing different things, AgentGu
 
 **The Reality**: Splunk is great for infrastructure monitoring. But when an AI agent starts making unauthorized decisions, Splunk sees "normal API calls." We see "agent behavior anomaly."
 
+**Positioning**:
+> "While Splunk is scheduling your kickoff meeting, we'll already be catching threats."
+
 ### vs. Cloud Security Platforms (Wiz, Orca, Palo Alto)
 
 **What They Do**: Cloud security posture management, configuration scanning.
@@ -61,6 +64,23 @@ Think of it like this: if you have 100 AI agents doing different things, AgentGu
 
 **The Reality**: Palo Alto protects your network. We protect your AI agents. Different problems, different tools.
 
+### vs. LangChain/LangSmith (Developer Tools)
+
+**What They Do**: Developer tools for building AI agents, debugging, tracing.
+
+**What We Do**: Governance, security, and compliance for production AI agents.
+
+**Our Advantage**:
+- **Production-Focused**: Built for deployed agents, not development
+- **Compliance-Ready**: Audit trails, regulatory reports, governance policies
+- **Human-in-the-Loop**: Required approvals for high-risk decisions
+- **Complete Visibility**: See all agents across your organization, not just one project
+
+**The Reality**: LangSmith helps you build agents. AgentGuard helps you govern them safely in production.
+
+**Positioning**:
+> "Autonomous AI without governance is a ticking time bomb. We give you control AND compliance."
+
 ## Who This Is For
 
 This is for anyone working with AI agents in production:
@@ -69,7 +89,33 @@ This is for anyone working with AI agents in production:
 - **Compliance teams** preparing for regulatory questions about AI governance
 - **Risk managers** evaluating AI deployments
 - **Mid-market organizations** who can't afford $500K+ enterprise security platforms
+- **Banks deploying AI agents** for customer service, trading, or operations
 - **Anyone curious** about how to make AI systems safer
+
+## Target Segments
+
+### Mid-Market Banks ($1B-$50B Assets)
+**Why We Fit**: Too small for enterprise security platforms ($500K+ minimum), but need enterprise-grade security. We deliver the same capabilities at mid-market prices.
+
+**Positioning**: "Enterprise-grade AI agent security at mid-market prices. The same tools large banks use, sized for your organization."
+
+### Credit Unions
+**Why We Fit**: Small budgets, shared services model, risk-averse. We offer group pricing and compliance-focused features.
+
+**Positioning**: "Built for credit unions, by credit unions. Join 50+ CUs already using us."
+
+### Fintech Startups
+**Why We Fit**: Can't afford enterprise pricing, move fast, need modern APIs. We offer usage-based pricing and fast onboarding.
+
+**Positioning**: "Scale-up pricing. Start small, grow with us. No long-term contracts."
+
+## Our Competitive Advantages
+
+1. **Speed**: Deploy in 30 days vs. 12 months for enterprise platforms
+2. **Specialization**: Built ONLY for AI agent security and governance
+3. **Modern**: AI-native, cloud-native, built for 2025
+4. **Transparency**: Open-source, auditable, community-driven
+5. **Support**: Founder-led, responsive, engineers who built it help you
 
 ## Current Status
 
