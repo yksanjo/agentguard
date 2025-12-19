@@ -2,6 +2,8 @@
 
 > Unified AI Agent Security & Governance Platform
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub stars](https://img.shields.io/github/stars/yksanjo/agentguard?style=social)](https://github.com/yksanjo/agentguard/stargazers) [![GitHub forks](https://img.shields.io/github/forks/yksanjo/agentguard.svg)](https://github.com/yksanjo/agentguard/network/members) [![GitHub issues](https://img.shields.io/github/issues/yksanjo/agentguard.svg)](https://github.com/yksanjo/agentguard/issues) [![Last commit](https://img.shields.io/github/last-commit/yksanjo/agentguard.svg)](https://github.com/yksanjo/agentguard/commits/main)
+
 ## What This Is
 
 AgentGuard is an open-source platform that helps organizations monitor, secure, and govern their AI agents. Think of it as a security dashboard for all your autonomous AI systems - giving you visibility into what they're doing, when they're doing it, and whether it's safe.
