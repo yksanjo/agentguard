@@ -1,66 +1,41 @@
-# 🤖 AgentGuard - AI Agent Security & Governance
+# agentguard
 
-> Guardrails for autonomous AI agents. Deploy AI with confidence and regulatory compliance.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![Status: Alpha](https://img.shields.io/badge/status-alpha-orange.svg)]()
 
-## 🎯 Problem
-
-Autonomous AI agents can make costly mistakes:
-- Hallucinations lead to wrong decisions
-- No human oversight for critical actions
-- Compliance requires audit trail
-- Resource usage unconstrained
-
-## 💡 Solution
-
-AgentGuard provides AI governance:
-- **Human-in-the-loop** - Approval workflows
-- **Sandbox execution** - Isolated environments
-- **Policy enforcement** - Configurable rules
-- **Complete audit trail** - For regulators
-
-## ⚡ Quick Start
-
-```bash
-git clone https://github.com/yksanjo/agentguard.git
-cd agentguard
-pip install -r requirements.txt
-python src/main.py
-```
+> 🛡️ Security framework for AI agents and autonomous systems
 
 ## 🚀 Features
 
-- ✅ **Behavior Monitoring** - Track all actions
-- ✅ **Sandbox Manager** - Docker isolation
-- ✅ **Policy Engine** - Governance rules
-- ✅ **Resource Limits** - CPU, memory, API calls
-- ✅ **Audit Logger** - Complete history
+✅ Real-time threat detection
+✅ Automated security monitoring
+✅ Comprehensive audit logs
 
-## 💰 Value
+## 📦 Installation
 
-- **Real-time action blocking** - Prevent mistakes
-- **EU AI Act compliant** - Governance ready
-- **Human approval** - For high-risk decisions
-- **Complete transparency** - Full audit trail
+```bash
+# Clone the repository
+git clone https://github.com/yksanjo/agentguard.git
+cd agentguard
 
-## 📊 Tech Stack
+# Follow project-specific instructions in docs/
+```
 
-- **Backend**: Python 3.11+, FastAPI
-- **Agents**: LangChain, LangGraph
-- **Sandbox**: Docker
-- **Database**: PostgreSQL (audit logs)
+## 💡 Usage
+
+```bash
+# See documentation for detailed usage
+./agentguard --help
+```
+
+## 🛠️ Tech Stack
+
+- **Primary Language:** Multi-language
+- **Category:** Security Solutions
 
 ## 📄 License
 
-MIT License
-
-## 💬 Contact
-
-yoshi@musicailab.com
+This project is licensed under the MIT License.
 
 ---
 
-**⚠️ Essential for responsible AI deployment in regulated industries.**
+*Built with ❤️ by [yksanjo](https://github.com/yksanjo)*
